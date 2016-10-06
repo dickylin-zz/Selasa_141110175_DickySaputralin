@@ -1,0 +1,9 @@
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\Selasa_141110175_DickySaputralin\bin\Debug\Selasa_141110175_DickySaputralin.exe.config
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\Selasa_141110175_DickySaputralin\bin\Debug\Selasa_141110175_DickySaputralin.exe
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\Selasa_141110175_DickySaputralin\bin\Debug\Selasa_141110175_DickySaputralin.pdb
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\Selasa_141110175_DickySaputralin\obj\Debug\Selasa_141110175_DickySaputralin.csprojResolveAssemblyReference.cache
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\Selasa_141110175_DickySaputralin\obj\Debug\WindowsFormsApplication1.Latihan_1_1.resources
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\Selasa_141110175_DickySaputralin\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\Selasa_141110175_DickySaputralin\obj\Debug\Selasa_141110175_DickySaputralin.csproj.GenerateResource.Cache
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\Selasa_141110175_DickySaputralin\obj\Debug\Selasa_141110175_DickySaputralin.exe
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\Selasa_141110175_DickySaputralin\obj\Debug\Selasa_141110175_DickySaputralin.pdb
