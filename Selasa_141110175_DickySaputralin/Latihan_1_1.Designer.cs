@@ -45,9 +45,11 @@
             this.vScrollBar4 = new System.Windows.Forms.VScrollBar();
             this.vScrollBar3 = new System.Windows.Forms.VScrollBar();
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
+            this.halaman1next = new System.Windows.Forms.PictureBox();
             this.tabControl1.SuspendLayout();
             this.Information.SuspendLayout();
             this.Help.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.halaman1next)).BeginInit();
             this.SuspendLayout();
             // 
             // tabControl1
@@ -205,12 +207,25 @@
             this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
             this.imageList1.Images.SetKeyName(0, "help-icon-31.png");
             this.imageList1.Images.SetKeyName(1, "Information-icon.png");
+            this.imageList1.Images.SetKeyName(2, "Next.png");
+            this.imageList1.Images.SetKeyName(3, "Prev.png");
+            // 
+            // halaman1next
+            // 
+            this.halaman1next.Image = ((System.Drawing.Image)(resources.GetObject("halaman1next.Image")));
+            this.halaman1next.Location = new System.Drawing.Point(363, 5);
+            this.halaman1next.Name = "halaman1next";
+            this.halaman1next.Size = new System.Drawing.Size(26, 26);
+            this.halaman1next.TabIndex = 1;
+            this.halaman1next.TabStop = false;
+            this.halaman1next.Click += new System.EventHandler(this.halaman1next_Click);
             // 
             // Latihan_1_1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(399, 358);
+            this.Controls.Add(this.halaman1next);
             this.Controls.Add(this.tabControl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Name = "Latihan_1_1";
@@ -222,6 +237,7 @@
             this.Information.PerformLayout();
             this.Help.ResumeLayout(false);
             this.Help.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.halaman1next)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -243,6 +259,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.VScrollBar vScrollBar4;
         private System.Windows.Forms.VScrollBar vScrollBar3;
+        private System.Windows.Forms.PictureBox halaman1next;
     }
 }
 
