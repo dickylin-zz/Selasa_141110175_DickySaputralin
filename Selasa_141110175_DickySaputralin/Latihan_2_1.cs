@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Text;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading;
+using System.Reflection;
 using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
@@ -62,7 +64,11 @@ namespace WindowsFormsApplication1
 
         private void halaman2next_Click(object sender, EventArgs e)
         {
-
+            Latihan_2_1 latihan2 = new Latihan_2_1();
+            Latihan_3_1 latihan3 = new Latihan_3_1();
+            this.Hide();
+            latihan2.Close();
+            latihan3.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)
