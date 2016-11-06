@@ -9,3 +9,4 @@ D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Sel
 D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\Selasa_141110175_DickySaputralin\obj\Debug\WindowsFormsApplication1.Latihan_2_1.resources
 D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\Selasa_141110175_DickySaputralin\obj\Debug\Selasa_141110175_DickySaputralin.csprojResolveAssemblyReference.cache
 D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\Selasa_141110175_DickySaputralin\obj\Debug\WindowsFormsApplication1.Latihan_3_1.resources
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\Selasa_141110175_DickySaputralin\obj\Debug\WindowsFormsApplication1.Latihan_4_1.resources

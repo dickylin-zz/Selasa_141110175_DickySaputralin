@@ -57,6 +57,22 @@ namespace WindowsFormsApplication1
             tooltip.SetToolTip(this.halaman2prev, "Back");
             tooltip.SetToolTip(this.halaman2next, "Next");
         }
+        private void halaman2prev_Click(object sender, EventArgs e)
+        {
+            Latihan_3_1 latihan3 = new Latihan_3_1();
+            Latihan_2_1 latihan2 = new Latihan_2_1();
+            this.Close();
+            latihan3.Hide();
+            latihan2.Show();
+        }
+        private void halaman2next_Click(object sender, EventArgs e)
+        {
+            Latihan_3_1 latihan3 = new Latihan_3_1();
+            Latihan_4_1 latihan4 = new Latihan_4_1();
+            this.Hide();
+            latihan3.Close();
+            latihan4.Show();
+        }
 
         private void toolStripComboBox2_DrawItem(object sender, DrawItemEventArgs e)
         {
@@ -186,13 +202,6 @@ namespace WindowsFormsApplication1
             update_teks();
         }
 
-        private void halaman2prev_Click(object sender, EventArgs e)
-        {
-            Latihan_3_1 latihan3 = new Latihan_3_1();
-            Latihan_2_1 latihan2 = new Latihan_2_1();
-            this.Close();
-            latihan3.Hide();
-            latihan2.Show();
-        }
+        
     }
 }
