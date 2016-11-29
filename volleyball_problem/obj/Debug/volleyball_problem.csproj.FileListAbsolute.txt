@@ -1,0 +1,8 @@
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\volleyball_problem\bin\Debug\volleyball_problem.exe.config
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\volleyball_problem\bin\Debug\volleyball_problem.exe
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\volleyball_problem\bin\Debug\volleyball_problem.pdb
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\volleyball_problem\obj\Debug\volleyball_problem.Properties.Resources.resources
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\volleyball_problem\obj\Debug\volleyball_problem.volleyball_problem.resources
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\volleyball_problem\obj\Debug\volleyball_problem.exe
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Praktek\Selasa_141110175_DickySaputralin\volleyball_problem\obj\Debug\volleyball_problem.pdb
