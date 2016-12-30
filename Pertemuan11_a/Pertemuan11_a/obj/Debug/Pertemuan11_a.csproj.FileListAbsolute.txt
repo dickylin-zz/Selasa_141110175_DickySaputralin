@@ -1,0 +1,20 @@
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.exe.config
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.exe
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.pdb
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\bin\Debug\MySql.Data.dll
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\bin\Debug\MySql.Web.dll
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.csprojResolveAssemblyReference.cache
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.Form1.resources
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.Properties.Resources.resources
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.csproj.GenerateResource.Cache
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.exe
+E:\Projects\C#\.NET Lanjutan\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.pdb
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Teori\Pertemuan11_a\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.exe.config
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Teori\Pertemuan11_a\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.exe
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Teori\Pertemuan11_a\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.pdb
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Teori\Pertemuan11_a\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.exe
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Teori\Pertemuan11_a\Pertemuan11_a\Pertemuan11_a\bin\Debug\Pertemuan11_a.pdb
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Teori\Pertemuan11_a\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.csprojResolveAssemblyReference.cache
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Teori\Pertemuan11_a\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.Form1.resources
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Teori\Pertemuan11_a\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.Properties.Resources.resources
+D:\Dick & Lev\forder dicky\Kuliah\Semester V\Framework .NET Lanjutan\Teori\Pertemuan11_a\Pertemuan11_a\Pertemuan11_a\obj\Debug\Pertemuan11_a.csproj.GenerateResource.Cache
